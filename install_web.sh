@@ -1,2 +1,2 @@
-apt-get update-y
-pat-get install-y ngnix
+apt-get update -y
+apt-get install -y ngnix
